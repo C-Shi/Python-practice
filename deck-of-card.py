@@ -55,5 +55,5 @@ card = d.deal_card()
 # print(card)
 hand = d.deal_hand(5)
 print(hand)
-print(d.cards)
+
 
